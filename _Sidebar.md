@@ -1,6 +1,0 @@
-  * [Home](https://github.com/AntonioMallen/Mazmorra/wiki)
-  * [Requisitos](https://github.com/AntonioMallen/Mazmorra/wiki/1.-Requisitos)
-    * [Software](https://github.com/AntonioMallen/Mazmorra/wiki/1.-Requisitos#software)
-    * [Hardware](https://github.com/AntonioMallen/Mazmorra/wiki/1.-Requisitos#hardware)
-  * [Guá de instalación](https://github.com/AntonioMallen/Mazmorra/wiki/2.--Gu%C3%ADa-de-instalaci%C3%B3n.) 
-  * [Interfaz](https://github.com/AntonioMallen/Mazmorra/wiki/3.-Interfaz)
