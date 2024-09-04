@@ -1,5 +1,6 @@
 # Juego de la mazmorra realizado con Python
 
+Wiki con toda la informacion de la instalación:
 [Wiki](https://github.com/AntonioMallen/Mazmorra/wiki)
 
 ## Licencia
